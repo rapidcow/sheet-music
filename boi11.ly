@@ -47,7 +47,7 @@
           g | d'2 c | ef1 | c2 d | b1 | \clef treble
           c2 d | ef1 | f2 bf |
         }
-        <f c'>1-\fermata
+        <c, ef g>1-\fermata
         \bar "|."
       }
     }
@@ -68,7 +68,7 @@
           \ottava #0 <g'' d'>1 | <c g' bf> | <d f c'> | <bf f' a> |
           <c d g> | <ef g bf> | <g bf c> | <g d'> |
         }
-        <df af'>-\fermata % \fine
+        <c, g'>-\fermata
       }
     }
   >>
